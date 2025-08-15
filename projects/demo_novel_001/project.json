@@ -1,0 +1,12 @@
+{
+  "id": "demo_novel_001",
+  "title": "The AI Writer's Tale",
+  "author": "Demo Author",
+  "genre": "Science Fiction",
+  "description": "A demo novel about an AI that learns to write stories.",
+  "created_at": "2025-08-15T20:28:00.636996",
+  "last_modified": "2025-08-15T20:28:00.637000",
+  "word_count": 0,
+  "target_word_count": 80000,
+  "status": "draft"
+}

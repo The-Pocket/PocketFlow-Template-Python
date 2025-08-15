@@ -1,0 +1,26 @@
+{
+  "session": {
+    "session_id": "session_c6207c7e",
+    "project_id": "test_project",
+    "chapter_id": "test_chapter",
+    "start_time": "2025-08-15T20:37:30.499536",
+    "last_activity": "2025-08-15T20:37:30.501259",
+    "cursor_position": 100,
+    "selection_start": 0,
+    "selection_end": 0,
+    "words_written": 50,
+    "characters_typed": 250,
+    "auto_save_enabled": true,
+    "auto_save_interval": 30,
+    "last_auto_save": "2025-08-15T20:37:30.499536"
+  },
+  "stats": {
+    "session_duration": "0:00:00.005426",
+    "words_written": 50,
+    "characters_typed": 250,
+    "average_wpm": 552893.5,
+    "breaks_taken": 0,
+    "auto_saves_performed": 0
+  },
+  "completed_at": "2025-08-15T20:37:30.505688"
+}
